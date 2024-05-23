@@ -1,0 +1,123 @@
+{
+  "Tour": {
+    "Locations": [
+      {
+        "Name": "JM's House",
+        "Latitude": 35.937020,
+        "Longitude": -78.925323,
+        "Image_URL": ["https://jmbartelt.com/argps/icon.png", "https://jmbartelt.com/argps/icon-2.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/House.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3", "https://jmbartelt.com/argps/music2.mp3"],
+        "Description": "This is where the magic happens."
+      },
+      {
+        "Name": "Yard",
+        "Latitude": 35.937098,
+        "Longitude": -78.925177,
+        "Image_URL": ["https://jmbartelt.com/argps/icon.png", "https://jmbartelt.com/argps/icon-2.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Yard.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3", "https://jmbartelt.com/argps/music2.mp3"],
+        "Description": "This is where the grilling happens. Beware of dog."
+      },
+      {
+        "Name": "Location 3",
+        "Latitude": 35.936946,
+        "Longitude": -78.925184,
+        "Image_URL": ["https://jmbartelt.com/argps/icon-2.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "Description for location 3"
+      },
+      {
+        "Name": "Location 4",
+        "Latitude": 35.936998,
+        "Longitude": -78.925519,
+        "Image_URL": ["https://jmbartelt.com/argps/icon.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "Description for location 4"
+      },
+      {
+        "Name": "Location 5",
+        "Latitude": 35.937129,
+        "Longitude": -78.925904,
+        "Image_URL": ["https://jmbartelt.com/argps/icon-2.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "Description for location 5"
+      },
+      {
+        "Name": "Location 6",
+        "Latitude": 35.937233,
+        "Longitude": -78.926164,
+        "Image_URL": ["https://jmbartelt.com/argps/icon.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "Description for location 6"
+      },
+      {
+        "Name": "Location 7",
+        "Latitude": 35.967345,
+        "Longitude": -78.953512,
+        "Image_URL": ["https://jmbartelt.com/argps/icon.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "Description for location 7"
+      },
+      {
+        "Name": "The Field",
+        "Latitude": 35.938638,
+        "Longitude": -78.928459,
+        "Image_URL": ["https://jmbartelt.com/argps/icon.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "This is where Magic goes to throw the ball. She is fast AF boi!"
+      },
+      {
+        "Name": "T-REX",
+        "Latitude": 38.631506,
+        "Longitude": -90.193435,
+        "Image_URL": ["https://downtowntrex.org/wp-content/uploads/2021/10/T-REX_Header.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "This is the T-REX Building where ARS is located."
+      },
+      {
+        "Name": "Parking Lot",
+        "Latitude": 38.631965,
+        "Longitude": -90.193422,
+        "Image_URL": ["https://media.istockphoto.com/id/1235662202/vector/car-automobile-parking-sign-icon-with-circle-shape.jpg?s=612x612&w=0&k=20&c=aCyUQ4jmvTUfYN4fwcC_1KcYyQOsIdRotOA6FcifJcg="],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "This is the future park location"
+      },
+      {
+        "Name": "Closer Parking Lot",
+        "Latitude": 38.631765,
+        "Longitude": -90.193695,
+        "Image_URL": ["https://media.istockphoto.com/id/1235662202/vector/car-automobile-parking-sign-icon-with-circle-shape.jpg?s=612x612&w=0&k=20&c=aCyUQ4jmvTUfYN4fwcC_1KcYyQOsIdRotOA6FcifJcg="],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "This is probably a more expensive place to park"
+      },
+      {
+        "Name": "Conference Center",
+        "Latitude": 38.630777,
+        "Longitude": -90.191494,
+        "Image_URL": ["https://cache.marriott.com/content/dam/marriott-renditions/STLDW/stldw-exterior-0011-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1215px:*"],
+        "Video_URL": ["https://jmbartelt.com/argps/Random.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "This is the Conference Center!"
+      },
+      {
+        "Name": "Webster University Tour",
+        "Latitude": 38.588791,
+        "Longitude": -90.345800,
+        "Image_URL": ["https://pbs.twimg.com/profile_images/1544084822/twitter_homecampus_icon_400x400.png"],
+        "Video_URL": ["https://jmbartelt.com/argps/webster.mp4"],
+        "Audio_URL": ["https://jmbartelt.com/argps/music.mp3"],
+        "Description": "Welcome to the St. Louis Campus!"
+      }
+    ]
+  }
+}
